@@ -27,7 +27,7 @@
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
-
+#include "tusb_config.h"
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/

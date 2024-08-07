@@ -1,0 +1,6 @@
+[submodule "Libs/tinyusb"]
+	path = Libs/tinyusb
+	url = git@github.com:hathach/tinyusb.git
+[submodule "Libs/lwip"]
+	path = Libs/lwip
+	url = git@github.com:lwip-tcpip/lwip.git
